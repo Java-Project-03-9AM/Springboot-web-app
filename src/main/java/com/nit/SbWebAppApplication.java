@@ -8,6 +8,7 @@ public class SbWebAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SbWebAppApplication.class, args);
+ 		int a = 10;
 	}
 
 }
