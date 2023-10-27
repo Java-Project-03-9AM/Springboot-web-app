@@ -10,9 +10,4 @@ public class SbWebAppApplication {
 		SpringApplication.run(SbWebAppApplication.class, args);
 	}
 
-	//HIS-200 related changes
-        public void doProcess(){
-		//logic goes here
-        }
-
 }
